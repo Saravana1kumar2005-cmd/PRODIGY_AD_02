@@ -27,6 +27,3 @@ Just enter the number corresponding to the action you want to perform.
 • 	Add task completion status
 • 	Add due dates and priorities
 • 	GUI version using Tkinter or a web-based interface
-🧑‍💻 Author
-Crafted with care by SARAVANAKUMAR
-Passionate about smart systems, Python, and clear documentation.
